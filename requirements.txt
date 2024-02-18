@@ -40,6 +40,5 @@ jinja2
 gitdb 
 zipp
 matplotlib
-ploty
 statsmodels
 seaborn 
